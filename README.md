@@ -1,6 +1,8 @@
 # ☕ estudos-logica-java
 
-## DIO - Desafio Estudos de lógica de programação com Java
+## DIO - Formação Git e Github
+
+### Desafio Estudos de lógica de programação com Java
 
 A lógica de programação em Java envolve a organização de instruções para resolver problemas de forma estruturada, seguindo estes princípios:
 
